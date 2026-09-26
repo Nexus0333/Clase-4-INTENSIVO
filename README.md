@@ -1,6 +1,5 @@
 # Clase-4-INTENSIVO 26/10
 ## Conectando Claude con Netlify
-
 **Descripción**
 
 * Utilizo los siguientes componentes en Claude:
